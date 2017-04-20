@@ -1,0 +1,2 @@
+# newproject
+neproject ftp
